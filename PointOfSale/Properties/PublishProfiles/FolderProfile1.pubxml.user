@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\POS</_PublishTargetUrl>
+    <History>True|2023-10-11T11:38:17.7370998Z;True|2023-10-11T16:33:25.6180686+05:00;False|2023-10-11T16:31:27.0362613+05:00;True|2023-10-10T18:30:05.6694487+05:00;False|2023-10-10T18:29:04.0166669+05:00;True|2023-10-10T17:55:05.2869171+05:00;False|2023-10-10T17:54:14.3510051+05:00;True|2023-10-10T17:33:02.0199842+05:00;True|2023-10-10T17:19:40.0292209+05:00;True|2023-10-10T16:53:54.1496271+05:00;True|2023-10-10T16:48:26.2613749+05:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
